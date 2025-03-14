@@ -3,7 +3,7 @@
     'version': '1.0',
     'summary': 'Track unpaid supplier invoices',
     'category': 'Accounting',
-    'author': 'Your Name',
+    'author': 'Yacine Deradra',
     'depends': ['account'],
     'data': [
         'security/ir.model.access.csv',
