@@ -1,5 +1,0 @@
-<odoo>
-    <menuitem id="menu_supplier_debt_root" name="Etat des dettes"
-              parent="account.menu_finance_payables" sequence="20"
-              action="action_supplier_debt"/>
-</odoo>
